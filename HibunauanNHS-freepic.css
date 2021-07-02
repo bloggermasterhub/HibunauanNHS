@@ -3673,7 +3673,10 @@ ul.social-counter{
     color:#ffffff;
     padding:0 
 }
-#footer-wrapper .copyright-area{
+.copyright-area{
+    font-size: 0px;
+}
+#footer-wrapper .copyright-area1{
     float:left;
     font-size:13px;
     display:block;
@@ -3682,7 +3685,7 @@ ul.social-counter{
     font-weight:500;
     line-height:34px 
 }
-#footer-wrapper .copyright-area a{
+#footer-wrapper .copyright-area1 a{
     color:#598cff;
     transition:color .17s 
 }
