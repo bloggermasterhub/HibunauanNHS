@@ -3933,7 +3933,7 @@ ul.social-counter{
         line-height:1.5em;
         padding:10px 15px 
     }
-    #menu-footer,#footer-wrapper .copyright-area{
+    #menu-footer,#footer-wrapper .copyright-area1{
         width:100%;
         height:auto;
         line-height:inherit;
@@ -3942,7 +3942,7 @@ ul.social-counter{
     #menu-footer{
         margin:10px 0 0 
     }
-    #footer-wrapper .copyright-area{
+    #footer-wrapper .copyright-area1{
         margin:15px 0 
     }
     #menu-footer ul li{
